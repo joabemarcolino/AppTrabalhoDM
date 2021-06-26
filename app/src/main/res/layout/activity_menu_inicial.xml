@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="16dp"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <TextView
+        android:layout_marginTop="16dp"
+        android:id="@+id/textViewPergunta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:textAlignment="center"
+        android:text="TEMPLATE PERGUNTA"
+        android:gravity="center"
+        />
+
+    <RadioGroup
+        android:layout_marginTop="24dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <RadioButton
+            android:id="@+id/radioButtonA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Carregando.." />
+
+        <RadioButton
+            android:id="@+id/radioButtonB"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Carregando.." />
+
+        <RadioButton
+            android:id="@+id/radioButtonC"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Carregando.." />
+
+        <RadioButton
+            android:id="@+id/radioButtonD"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Carregando.." />
+
+    </RadioGroup>
+
+    <Button
+        android:layout_marginTop="24dp"
+        android:id="@+id/buttonResponder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="RESPONDER" />
+
+</LinearLayout>

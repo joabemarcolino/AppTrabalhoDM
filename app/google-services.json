@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "707164172524",
+    "project_id": "app-trabalho-dm",
+    "storage_bucket": "app-trabalho-dm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707164172524:android:4ceb13f5973f0dd2e2b5c9",
+        "android_client_info": {
+          "package_name": "org.eaa.example.apptrabalhodm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707164172524-4b5tqjpes9of15o0efq96t1n0vc279h1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.eaa.example.apptrabalhodm",
+            "certificate_hash": "5bbbe58b1f7cc61e807cb3ffd04613d3959d20c9"
+          }
+        },
+        {
+          "client_id": "707164172524-pr36vva71d14ii77irmjkm1im22ojaje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBofKmGO4Q8XMkk_e7QsF1AeMjag6fiA1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707164172524-pr36vva71d14ii77irmjkm1im22ojaje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
